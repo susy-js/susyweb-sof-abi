@@ -1,0 +1,14 @@
+{
+  "name": "susyweb-sof-abi",
+  "namespace": "sophon",
+  "version": "1.0.0-beta.37",
+  "description": "SusyWeb module encode and decode SVM in/output.",
+  "repository": "https://octonion.institute/susy-js/susyweb.js/tree/master/packages/susyweb-sof-abi",
+  "license": "LGPL-3.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "sophys": "4.0.0-beta.1",
+    "underscore": "1.8.3",
+    "susyweb-utils": "1.0.0-beta.37"
+  }
+}
